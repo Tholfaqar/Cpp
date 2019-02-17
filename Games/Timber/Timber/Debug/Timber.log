@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  Timber.cpp
+c:\users\tholfaqar.mardan\dropbox\cs\games\timber2\timber\timber.cpp(101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tholfaqar.mardan\dropbox\cs\games\timber2\timber\timber.cpp(356): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\tholfaqar.mardan\dropbox\cs\games\timber2\timber\timber.cpp(390): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\tholfaqar.mardan\dropbox\cs\games\timber2\timber\timber.cpp(466): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\tholfaqar.mardan\dropbox\cs\games\timber2\timber\timber.cpp(470): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\tholfaqar.mardan\dropbox\cs\games\timber2\timber\timber.cpp(503): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\tholfaqar.mardan\dropbox\cs\games\timber2\timber\timber.cpp(643): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Timber.vcxproj -> C:\Users\tholfaqar.mardan\Dropbox\CS\Games\Timber2\Debug\Timber.exe
+  Timber.vcxproj -> C:\Users\tholfaqar.mardan\Dropbox\CS\Games\Timber2\Debug\Timber.pdb (Full PDB)

@@ -1,0 +1,17 @@
+﻿  pch.cpp
+  Timber.cpp
+Timber.cpp(101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Timber.cpp(356): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+Timber.cpp(390): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+Timber.cpp(466): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Timber.cpp(470): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+Timber.cpp(503): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+Timber.cpp(643): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1188,5): warning MSB8012: TargetPath(C:\Users\tholfaqar.mardan\Dropbox\CS\Games\Timber2\Release\Timber.exe) does not match the Linker's OutputFile property value (). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+  Generating code
+  118 of 120 functions (98.3%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Timber.vcxproj -> C:\Users\tholfaqar.mardan\Dropbox\CS\Games\Timber2\Release\Timber.exe
+  Timber.vcxproj -> C:\Users\tholfaqar.mardan\Dropbox\CS\Games\Timber2\Release\Timber.pdb (Full PDB)
